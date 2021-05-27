@@ -61,19 +61,17 @@ const writeLogs = async (): Promise<void> => {
 		
 		// Clear pendingLogs out
 		pendingLogs = [];
-		localStorage.setItem("pendingLogs", JSON.stringify([]));
 	}
 };
 
 // initLog(folderName, debugMode, writeTiming) returns nothing
 // Handles ensuring the required directory structure is created and sets up the writing service with a default write timing of once per minute
-export const initLog = (name: string, debugMode: boolean, writeTiming = 60): void => {
+export const initLog = (name: string, debugMode: boolean, writeTiming = 10): void => {
 	// Initialize the file name
 	startDate = new Date().toISOString().split("T")[0];
 	logFolder = name;
 	debug = debugMode;
-	writeLogTimer = writeTiming * 1000;
-	pendingLogs = JSON.parse(localStorage.getItem("pendingLogs") || "[]");
+	writeLogTimer = writeTiming * 100;
 	const startupMessage = `
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------- LOGGING  STARTED -----------------------------------------
@@ -87,25 +85,6 @@ export const initLog = (name: string, debugMode: boolean, writeTiming = 60): voi
 		Deno.writeTextFileSync(`./${logFolder}/${level}/${startDate}.log`, `${startupMessage}\n`, {append: true});
 	});
 
-	// Write any logs that were cached to the LS
-	if (pendingLogs.length) {
-		pendingLogs.unshift({
-			message: `
----------------------------------------------------------------------------------------------------
--------------------------------- BEGIN MESSAGES FROM PREVIOUS RUN ---------------------------------
----------------------------------------------------------------------------------------------------`,
-			trace: ""
-		});
-		pendingLogs.push({
-			message: `
----------------------------------------------------------------------------------------------------
---------------------------------- END MESSAGES FROM PREVIOUS RUN ----------------------------------
----------------------------------------------------------------------------------------------------`,
-			trace: ""
-		});
-		writeLogs();
-	}
-
 	// Start the writing service
 	setInterval(writeLogs, writeLogTimer);
 
@@ -114,10 +93,11 @@ export const initLog = (name: string, debugMode: boolean, writeTiming = 60): voi
 
 // log(level, message) returns nothing
 // Handles sending messages to console.log and sending a copy of the log to a file for review on crashes
-export const log = async (level: LogTypes, message: string, error = new Error()): Promise<void> => {
+export const log = async (level: LogTypes, message: string, error: (boolean | Error) = new Error()): Promise<void> => {
 	const msgId = await nanoid(10);
 	const formattedMsg = `${new Date().toISOString()} | ${msgId} | ${level.padEnd(5)} | ${message}`;
-	const traceMsg = `${error.stack}`
+	const traceMsg = error ? `${error}` : "Trace omitted";
+
 	// Default functionality of logging to console
 	if (level !== LogTypes.LOG || debug) {
 		console[level](formattedMsg);
@@ -129,7 +109,5 @@ export const log = async (level: LogTypes, message: string, error = new Error())
 			message: formattedMsg,
 			trace: traceMsg
 		});
-
-		localStorage.setItem("pendingLogs", JSON.stringify(pendingLogs));
 	}
 };
