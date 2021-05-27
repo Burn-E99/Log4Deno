@@ -16,7 +16,7 @@ import {
 	LogTypes,
 	initLog,
 	log
-} from "https://github.com/Burn-E99/Log4Deno/blob/master/mod.ts";
+} from "https://raw.githubusercontent.com/Burn-E99/Log4Deno/master/mod.ts";
 
 initLog("logs", false);
 
