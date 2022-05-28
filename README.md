@@ -1,5 +1,5 @@
 # Log4Deno
-V1.1.0 | 2021/05/27
+V1.1.1 | 2022/05/27 | [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Log4Deno)
 
 Log4Deno is a simple client for logging actions to the console and to log files simultaneously.  This project was made to extract a block of duplicate logging code from multiple Deno projects into one concise location for easy updating.
 
@@ -16,11 +16,11 @@ import {
 	LogTypes,
 	initLog,
 	log
-} from "https://raw.githubusercontent.com/Burn-E99/Log4Deno/master/mod.ts";
+} from 'https://raw.githubusercontent.com/Burn-E99/Log4Deno/master/mod.ts';
 
-initLog("logs", false);
+initLog('logs', false);
 
-log(LogTypes.INFO, "Hello World!");
+log(LogTypes.INFO, 'Hello World!');
 ```
 
 You must add `--allow-write=./logs` to the run command of your project.  `./logs` may be changed to any folder, but the `initLog` call must match this setting, else Deno will not be able to run.
