@@ -1,6 +1,5 @@
-# Log4Deno
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Log4Deno)  
-V1.1.1 | 2022/05/27
+# Log4Deno | V1.1.1 - 2022/05/27
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Log4Deno)
 
 Log4Deno is a simple client for logging actions to the console and to log files simultaneously.  This project was made to extract a block of duplicate logging code from multiple Deno projects into one concise location for easy updating.
 
