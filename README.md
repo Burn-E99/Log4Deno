@@ -30,4 +30,4 @@ By default, Log4Deno will write logs to file every 1 second, which can be adjust
 
 If you do not want to log messages to file, simply omit the initLog line and you will get a slightly fancier console output than normal.
 
-Another exmple may be found in the `test` folder, along with example log files.
+Another example may be found in the `test` folder, along with example log files.
