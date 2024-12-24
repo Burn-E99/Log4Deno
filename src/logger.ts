@@ -1,4 +1,4 @@
-import { nanoid } from '../deps.ts';
+import { nanoid, Writer } from '../deps.ts';
 
 type TempLog = {
 	message: string;
@@ -23,7 +23,7 @@ let pendingLogs: Array<TempLog> = [];
 
 // writeAll(destination, data) returns nothing
 // Util to ensure all bytes get written to file
-const writeAll = async (w: Deno.Writer, arr: Uint8Array): Promise<void> => {
+const writeAll = async (w: Writer, arr: Uint8Array): Promise<void> => {
 	let nwritten = 0;
 	while (nwritten < arr.length) {
 		nwritten += await w.write(arr.subarray(nwritten));
@@ -56,8 +56,8 @@ const writeLogs = async (): Promise<void> => {
 		await writeAll(traceFile, traceBytes);
 
 		// Close files
-		Deno.close(combinedFile.rid);
-		Deno.close(traceFile.rid);
+		combinedFile.close();
+		traceFile.close();
 
 		// Clear pendingLogs out
 		pendingLogs = [];

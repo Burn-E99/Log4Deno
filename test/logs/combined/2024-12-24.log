@@ -1,0 +1,191 @@
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------- LOGGING  STARTED -----------------------------------------
+------------------------------------ 2024-12-24T06:21:36.352Z -------------------------------------
+---------------------------------------------------------------------------------------------------
+2024-12-24T06:21:42.517Z | UmRc1h7Wpm | error | Loop #0 | Message as Error
+2024-12-24T06:21:42.517Z | rnCK2DlGeW | warn  | Loop #0 | Message as Warning
+2024-12-24T06:21:42.517Z | 3Svj-Npk3l | info  | Loop #0 | Message as Info
+2024-12-24T06:21:42.517Z | UUB4i5vf6B | log   | Loop #0 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:42.718Z | XyoFBe_MQx | error | Loop #2 | Message as Error
+2024-12-24T06:21:42.719Z | nH0SvUvoYk | warn  | Loop #2 | Message as Warning
+2024-12-24T06:21:42.719Z | QOXniopNOR | info  | Loop #2 | Message as Info
+2024-12-24T06:21:42.719Z | rGb9_sOVQM | log   | Loop #2 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:42.920Z | KPb6WKOjBR | error | Loop #4 | Message as Error
+2024-12-24T06:21:42.920Z | xgzNQ7yxbW | warn  | Loop #4 | Message as Warning
+2024-12-24T06:21:42.920Z | D8xC8fAFxj | info  | Loop #4 | Message as Info
+2024-12-24T06:21:42.920Z | g_e0jEuXF5 | log   | Loop #4 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:43.122Z | 9ve8iEmsAn | error | Loop #6 | Message as Error
+2024-12-24T06:21:43.122Z | NlKAHxdoNx | warn  | Loop #6 | Message as Warning
+2024-12-24T06:21:43.122Z | u7eb4GxXt0 | info  | Loop #6 | Message as Info
+2024-12-24T06:21:43.122Z | SsfFwHeOdB | log   | Loop #6 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:43.324Z | KANWrYNTVu | error | Loop #8 | Message as Error
+2024-12-24T06:21:43.324Z | dlwgGA_Tmp | warn  | Loop #8 | Message as Warning
+2024-12-24T06:21:43.324Z | sWkh4B1jrN | info  | Loop #8 | Message as Info
+2024-12-24T06:21:43.324Z | Dbl8TCd1ob | log   | Loop #8 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:43.527Z | QNFhi6bcXa | error | Loop #10 | Message as Error
+2024-12-24T06:21:43.527Z | TYw3dcDCij | warn  | Loop #10 | Message as Warning
+2024-12-24T06:21:43.527Z | HNYvRBcPJj | info  | Loop #10 | Message as Info
+2024-12-24T06:21:43.527Z | oXkhDWS8QI | log   | Loop #10 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:43.730Z | 2ZX4cpy_wj | error | Loop #12 | Message as Error
+2024-12-24T06:21:43.730Z | yjbO7lXyg0 | warn  | Loop #12 | Message as Warning
+2024-12-24T06:21:43.730Z | Gok1oIQrtZ | info  | Loop #12 | Message as Info
+2024-12-24T06:21:43.730Z | 5IlNugTEHf | log   | Loop #12 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:43.931Z | YA4zTAv0fm | error | Loop #14 | Message as Error
+2024-12-24T06:21:43.932Z | 0YjdtTL63S | warn  | Loop #14 | Message as Warning
+2024-12-24T06:21:43.932Z | 1zAQKdR249 | info  | Loop #14 | Message as Info
+2024-12-24T06:21:43.932Z | gJPdoc7yV8 | log   | Loop #14 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:44.135Z | 9MeSOLwPBA | error | Loop #16 | Message as Error
+2024-12-24T06:21:44.135Z | J5G4q0Xbsv | warn  | Loop #16 | Message as Warning
+2024-12-24T06:21:44.135Z | EALjkOzkbN | info  | Loop #16 | Message as Info
+2024-12-24T06:21:44.135Z | O6SjkQhL9E | log   | Loop #16 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:44.336Z | Pl65H_j3pd | error | Loop #18 | Message as Error
+2024-12-24T06:21:44.336Z | 068U3-yjE5 | warn  | Loop #18 | Message as Warning
+2024-12-24T06:21:44.336Z | xCK19l9VYS | info  | Loop #18 | Message as Info
+2024-12-24T06:21:44.336Z | _CCqvyzbhr | log   | Loop #18 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:44.538Z | hpiThrd6cM | error | Loop #20 | Message as Error
+2024-12-24T06:21:44.538Z | pZlTjhDveV | warn  | Loop #20 | Message as Warning
+2024-12-24T06:21:44.538Z | 7NeRTH6kKU | info  | Loop #20 | Message as Info
+2024-12-24T06:21:44.539Z | R3CAwB-s95 | log   | Loop #20 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:44.741Z | ISwb7nA_FN | error | Loop #22 | Message as Error
+2024-12-24T06:21:44.741Z | 8JFILQGkv- | warn  | Loop #22 | Message as Warning
+2024-12-24T06:21:44.741Z | nZmsnYKPRX | info  | Loop #22 | Message as Info
+2024-12-24T06:21:44.741Z | hAKRX-xYh7 | log   | Loop #22 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:44.943Z | 2wGxBRNbmM | error | Loop #24 | Message as Error
+2024-12-24T06:21:44.943Z | 9H6EZmTdh4 | warn  | Loop #24 | Message as Warning
+2024-12-24T06:21:44.943Z | K2RfUHcNex | info  | Loop #24 | Message as Info
+2024-12-24T06:21:44.943Z | VMcQP9Iq2R | log   | Loop #24 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:45.146Z | qLKVI6Prnp | error | Loop #26 | Message as Error
+2024-12-24T06:21:45.146Z | K6v_j9uUdP | warn  | Loop #26 | Message as Warning
+2024-12-24T06:21:45.146Z | W59nixbFNl | info  | Loop #26 | Message as Info
+2024-12-24T06:21:45.146Z | jSRAFOumNp | log   | Loop #26 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:45.349Z | P57ZuTkz7V | error | Loop #28 | Message as Error
+2024-12-24T06:21:45.349Z | LT2nOq30Qf | warn  | Loop #28 | Message as Warning
+2024-12-24T06:21:45.349Z | Pv6ih6EaoZ | info  | Loop #28 | Message as Info
+2024-12-24T06:21:45.349Z | RjXWA0Zjzg | log   | Loop #28 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:45.550Z | 1ObjmEGsDZ | error | Loop #30 | Message as Error
+2024-12-24T06:21:45.550Z | GJc3ZoWxZt | warn  | Loop #30 | Message as Warning
+2024-12-24T06:21:45.550Z | QjmWNe2VRJ | info  | Loop #30 | Message as Info
+2024-12-24T06:21:45.550Z | CwpNxSeTgA | log   | Loop #30 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:45.753Z | CuY4upC8tp | error | Loop #32 | Message as Error
+2024-12-24T06:21:45.753Z | eqcUEwmOdw | warn  | Loop #32 | Message as Warning
+2024-12-24T06:21:45.753Z | MU0lpMqJdX | info  | Loop #32 | Message as Info
+2024-12-24T06:21:45.753Z | SSGSIJUGi4 | log   | Loop #32 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:45.955Z | BU9B1SDGX6 | error | Loop #34 | Message as Error
+2024-12-24T06:21:45.955Z | 8sy1P7YfEp | warn  | Loop #34 | Message as Warning
+2024-12-24T06:21:45.955Z | j2DxCEABdg | info  | Loop #34 | Message as Info
+2024-12-24T06:21:45.955Z | AUViiK1NZ5 | log   | Loop #34 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------- LOGGING  STARTED -----------------------------------------
+------------------------------------ 2024-12-24T06:21:54.060Z -------------------------------------
+---------------------------------------------------------------------------------------------------
+2024-12-24T06:21:56.152Z | YG5Syq1o8Z | error | Loop #0 | Message as Error
+2024-12-24T06:21:56.152Z | FMxINyw6aG | warn  | Loop #0 | Message as Warning
+2024-12-24T06:21:56.152Z | M4FTFLNc7O | info  | Loop #0 | Message as Info
+2024-12-24T06:21:56.152Z | rkiDKJN6d4 | log   | Loop #0 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:56.354Z | jkPOMErPus | error | Loop #2 | Message as Error
+2024-12-24T06:21:56.354Z | J6MDKGx-41 | warn  | Loop #2 | Message as Warning
+2024-12-24T06:21:56.354Z | Ioeq76ZN06 | info  | Loop #2 | Message as Info
+2024-12-24T06:21:56.354Z | mS9Z4NG-mI | log   | Loop #2 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:56.557Z | mG7T2dZup7 | error | Loop #4 | Message as Error
+2024-12-24T06:21:56.557Z | OBoNFah4_j | warn  | Loop #4 | Message as Warning
+2024-12-24T06:21:56.557Z | jJfC050Zlp | info  | Loop #4 | Message as Info
+2024-12-24T06:21:56.557Z | MJeNJGpsK6 | log   | Loop #4 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:56.758Z | Nb5bG9jYAK | error | Loop #6 | Message as Error
+2024-12-24T06:21:56.758Z | 55fZ37hP9- | warn  | Loop #6 | Message as Warning
+2024-12-24T06:21:56.758Z | rHtLAT9vty | info  | Loop #6 | Message as Info
+2024-12-24T06:21:56.758Z | 0_d9IqSNPY | log   | Loop #6 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:56.961Z | 0Cr6RTLAPQ | error | Loop #8 | Message as Error
+2024-12-24T06:21:56.961Z | t69Lf7VqNk | warn  | Loop #8 | Message as Warning
+2024-12-24T06:21:56.961Z | N5KTjNKQMI | info  | Loop #8 | Message as Info
+2024-12-24T06:21:56.961Z | nJ8ZQk9axp | log   | Loop #8 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:57.163Z | exqVgKdgfG | error | Loop #10 | Message as Error
+2024-12-24T06:21:57.163Z | 79i4Qzo0VD | warn  | Loop #10 | Message as Warning
+2024-12-24T06:21:57.163Z | qleyoRSwJi | info  | Loop #10 | Message as Info
+2024-12-24T06:21:57.163Z | 80hJ7S3R43 | log   | Loop #10 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:57.365Z | amb4jP5DQv | error | Loop #12 | Message as Error
+2024-12-24T06:21:57.365Z | MwDGXODMQI | warn  | Loop #12 | Message as Warning
+2024-12-24T06:21:57.365Z | KDrWt1BlpY | info  | Loop #12 | Message as Info
+2024-12-24T06:21:57.365Z | ipLT3B4A2G | log   | Loop #12 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:57.568Z | IHTUcdiGVa | error | Loop #14 | Message as Error
+2024-12-24T06:21:57.568Z | ey7kJ1sEQ7 | warn  | Loop #14 | Message as Warning
+2024-12-24T06:21:57.568Z | En7Z2ZDFFA | info  | Loop #14 | Message as Info
+2024-12-24T06:21:57.568Z | 1-_qBTNaFf | log   | Loop #14 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:57.769Z | kn5Lrpulds | error | Loop #16 | Message as Error
+2024-12-24T06:21:57.769Z | Xe0Re4ruMN | warn  | Loop #16 | Message as Warning
+2024-12-24T06:21:57.769Z | X4Md5aQr-W | info  | Loop #16 | Message as Info
+2024-12-24T06:21:57.769Z | GHjU6KYVtE | log   | Loop #16 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:57.971Z | rJlk9TaKM2 | error | Loop #18 | Message as Error
+2024-12-24T06:21:57.971Z | uTkBLKglWf | warn  | Loop #18 | Message as Warning
+2024-12-24T06:21:57.971Z | In26QBd5Tz | info  | Loop #18 | Message as Info
+2024-12-24T06:21:57.971Z | z0kSMwYp_h | log   | Loop #18 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:58.173Z | mL7B3F4CdK | error | Loop #20 | Message as Error
+2024-12-24T06:21:58.173Z | NF8Zf2wuuP | warn  | Loop #20 | Message as Warning
+2024-12-24T06:21:58.173Z | D_rSo-asjF | info  | Loop #20 | Message as Info
+2024-12-24T06:21:58.173Z | xzrl6mTHvm | log   | Loop #20 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:58.376Z | fXm3MK_ezQ | error | Loop #22 | Message as Error
+2024-12-24T06:21:58.376Z | hJkgkSiUFr | warn  | Loop #22 | Message as Warning
+2024-12-24T06:21:58.376Z | Lqaz9v5qZ4 | info  | Loop #22 | Message as Info
+2024-12-24T06:21:58.376Z | 82tKBOmpj_ | log   | Loop #22 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:58.579Z | Wf060cx6iP | error | Loop #24 | Message as Error
+2024-12-24T06:21:58.579Z | ajE_nHPaSb | warn  | Loop #24 | Message as Warning
+2024-12-24T06:21:58.579Z | j8sE3ikgCx | info  | Loop #24 | Message as Info
+2024-12-24T06:21:58.579Z | iU6TMeawt4 | log   | Loop #24 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:58.781Z | ACwPKF84e5 | error | Loop #26 | Message as Error
+2024-12-24T06:21:58.781Z | TqOOJhSgtC | warn  | Loop #26 | Message as Warning
+2024-12-24T06:21:58.781Z | BkOiUsktPp | info  | Loop #26 | Message as Info
+2024-12-24T06:21:58.781Z | ctmbBN01Z0 | log   | Loop #26 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:58.983Z | kj3FHee7CI | error | Loop #28 | Message as Error
+2024-12-24T06:21:58.983Z | EHshH_5eJ4 | warn  | Loop #28 | Message as Warning
+2024-12-24T06:21:58.983Z | T0Mm3JGE-g | info  | Loop #28 | Message as Info
+2024-12-24T06:21:58.983Z | ohMZMkvFuy | log   | Loop #28 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:59.185Z | sl3F2kuVSv | error | Loop #30 | Message as Error
+2024-12-24T06:21:59.185Z | 7Bl1YguOzb | warn  | Loop #30 | Message as Warning
+2024-12-24T06:21:59.185Z | -6SMQBZ0kt | info  | Loop #30 | Message as Info
+2024-12-24T06:21:59.185Z | aNS0wCVyuq | log   | Loop #30 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:59.387Z | iNXh4y2P65 | error | Loop #32 | Message as Error
+2024-12-24T06:21:59.387Z | BsX-qf8A_b | warn  | Loop #32 | Message as Warning
+2024-12-24T06:21:59.387Z | YjFp64tA11 | info  | Loop #32 | Message as Info
+2024-12-24T06:21:59.387Z | zixxA0ji5T | log   | Loop #32 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:59.589Z | dvg6oqK2JZ | error | Loop #34 | Message as Error
+2024-12-24T06:21:59.589Z | 4OCt9FKdYs | warn  | Loop #34 | Message as Warning
+2024-12-24T06:21:59.589Z | XCDtzURqCa | info  | Loop #34 | Message as Info
+2024-12-24T06:21:59.589Z | pKXWNlRSnp | log   | Loop #34 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:59.792Z | NObV-LIomu | error | Loop #36 | Message as Error
+2024-12-24T06:21:59.792Z | Szp2HFaM0B | warn  | Loop #36 | Message as Warning
+2024-12-24T06:21:59.792Z | 8OrcsVLeZ_ | info  | Loop #36 | Message as Info
+2024-12-24T06:21:59.792Z | 9YC0ReLTv8 | log   | Loop #36 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:21:59.993Z | TS5sD4LpGl | error | Loop #38 | Message as Error
+2024-12-24T06:21:59.993Z | p0lxTdGhdq | warn  | Loop #38 | Message as Warning
+2024-12-24T06:21:59.993Z | re0S6S_mLh | info  | Loop #38 | Message as Info
+2024-12-24T06:21:59.993Z | T-sQBXhF6s | log   | Loop #38 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:00.195Z | UDYQtWqYKQ | error | Loop #40 | Message as Error
+2024-12-24T06:22:00.195Z | QvW-YrRDot | warn  | Loop #40 | Message as Warning
+2024-12-24T06:22:00.195Z | _3hf7ksIis | info  | Loop #40 | Message as Info
+2024-12-24T06:22:00.195Z | qToz3b9ZkL | log   | Loop #40 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:00.398Z | tTbNVeqFzw | error | Loop #42 | Message as Error
+2024-12-24T06:22:00.398Z | G9E2CMQjnY | warn  | Loop #42 | Message as Warning
+2024-12-24T06:22:00.398Z | lbpik_vuNM | info  | Loop #42 | Message as Info
+2024-12-24T06:22:00.398Z | mXLWZV_j9x | log   | Loop #42 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:00.600Z | tUOcQ-8Rot | error | Loop #44 | Message as Error
+2024-12-24T06:22:00.600Z | 0PP7paMcvd | warn  | Loop #44 | Message as Warning
+2024-12-24T06:22:00.600Z | vhBLpX8y2N | info  | Loop #44 | Message as Info
+2024-12-24T06:22:00.600Z | JQyYBuS6L6 | log   | Loop #44 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:00.802Z | WU_TPgLGgh | error | Loop #46 | Message as Error
+2024-12-24T06:22:00.802Z | 2Ku-yjyCLs | warn  | Loop #46 | Message as Warning
+2024-12-24T06:22:00.802Z | 1dKlHPJ4Qw | info  | Loop #46 | Message as Info
+2024-12-24T06:22:00.802Z | zxSqGjUaFv | log   | Loop #46 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:01.005Z | cnRBeV8_eA | error | Loop #48 | Message as Error
+2024-12-24T06:22:01.005Z | NoReXpXFZl | warn  | Loop #48 | Message as Warning
+2024-12-24T06:22:01.005Z | p8eDPymwk5 | info  | Loop #48 | Message as Info
+2024-12-24T06:22:01.005Z | -5nFajSwTd | log   | Loop #48 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:01.208Z | b6fBlbCpKx | error | Loop #50 | Message as Error
+2024-12-24T06:22:01.208Z | lbU_Ws-EgZ | warn  | Loop #50 | Message as Warning
+2024-12-24T06:22:01.208Z | W8n0VgeupU | info  | Loop #50 | Message as Info
+2024-12-24T06:22:01.208Z | _TI5OzzNRJ | log   | Loop #50 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:01.410Z | Y4PlWUTLSy | error | Loop #52 | Message as Error
+2024-12-24T06:22:01.410Z | wHEpAvPIqP | warn  | Loop #52 | Message as Warning
+2024-12-24T06:22:01.410Z | SAhE1YeAs6 | info  | Loop #52 | Message as Info
+2024-12-24T06:22:01.410Z | uvQm_GSaDk | log   | Loop #52 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2024-12-24T06:22:01.551Z | CqUKSMz-zx | info  | Ending logging
