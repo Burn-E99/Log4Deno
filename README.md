@@ -1,4 +1,4 @@
-# Log4Deno | V2.1.0 - 2025/04/26
+# Log4Deno | V2.1.1 - 2025/04/26
 
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=Log4Deno)\
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Log4Deno) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Log4Deno&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Log4Deno)

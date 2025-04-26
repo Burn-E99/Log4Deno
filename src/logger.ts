@@ -95,7 +95,6 @@ export const initLog = (name: string, debugMode: boolean, writeTiming = 10): voi
 // closeLog() returns nothing
 // Handles writing remaining logs and stops the interval
 export const closeLog = async (): Promise<void> => {
-  console.log('test', pendingLogs);
   clearInterval(writeInterval);
   await writeLogs();
 };
