@@ -1,11 +1,11 @@
 {
   "version": "4",
   "specifiers": {
-    "jsr:@std/io@*": "0.225.0"
+    "jsr:@std/io@0.225.2": "0.225.2"
   },
   "jsr": {
-    "@std/io@0.225.0": {
-      "integrity": "c1db7c5e5a231629b32d64b9a53139445b2ca640d828c26bf23e1c55f8c079b3"
+    "@std/io@0.225.2": {
+      "integrity": "3c740cd4ee4c082e6cfc86458f47e2ab7cb353dc6234d5e9b1f91a2de5f4d6c7"
     }
   },
   "remote": {

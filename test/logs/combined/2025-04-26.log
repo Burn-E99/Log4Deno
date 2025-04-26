@@ -1,0 +1,114 @@
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------- LOGGING  STARTED -----------------------------------------
+------------------------------------ 2025-04-26T22:31:39.202Z -------------------------------------
+---------------------------------------------------------------------------------------------------
+2025-04-26T22:31:39.309Z | Qqf7AI27PI | error | Loop #0 | Message as Error
+2025-04-26T22:31:39.309Z | CKYZcE4CJo | warn  | Loop #0 | Message as Warning
+2025-04-26T22:31:39.309Z | Pg8Tbp15uY | info  | Loop #0 | Message as Info
+2025-04-26T22:31:39.309Z | JkZYD5Blvs | log   | Loop #0 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:39.511Z | uMVFlfcSQk | error | Loop #2 | Message as Error
+2025-04-26T22:31:39.511Z | dwpOI9WHxa | warn  | Loop #2 | Message as Warning
+2025-04-26T22:31:39.511Z | r7EzihoBHK | info  | Loop #2 | Message as Info
+2025-04-26T22:31:39.511Z | QYJ1jNTWjS | log   | Loop #2 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:39.714Z | HD-i1ylpjK | error | Loop #4 | Message as Error
+2025-04-26T22:31:39.714Z | oK6kreKSXX | warn  | Loop #4 | Message as Warning
+2025-04-26T22:31:39.714Z | -Zpo7_9RP5 | info  | Loop #4 | Message as Info
+2025-04-26T22:31:39.714Z | j3RkUnU4Xf | log   | Loop #4 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:39.915Z | mqmqnhsAYl | error | Loop #6 | Message as Error
+2025-04-26T22:31:39.915Z | YDaMwDob6W | warn  | Loop #6 | Message as Warning
+2025-04-26T22:31:39.915Z | AirZHsfCIk | info  | Loop #6 | Message as Info
+2025-04-26T22:31:39.915Z | DtODuXAzBF | log   | Loop #6 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:40.118Z | XKVdI65M1F | error | Loop #8 | Message as Error
+2025-04-26T22:31:40.118Z | lOSW-46jlk | warn  | Loop #8 | Message as Warning
+2025-04-26T22:31:40.118Z | OOOpxh5eFb | info  | Loop #8 | Message as Info
+2025-04-26T22:31:40.118Z | tJgUK-ypeS | log   | Loop #8 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:40.319Z | nvuLgsSxKy | error | Loop #10 | Message as Error
+2025-04-26T22:31:40.319Z | T8Z8-TIOsu | warn  | Loop #10 | Message as Warning
+2025-04-26T22:31:40.319Z | OarMEgeScn | info  | Loop #10 | Message as Info
+2025-04-26T22:31:40.319Z | GeugRR6PPR | log   | Loop #10 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:40.521Z | qgYqo3l7hf | error | Loop #12 | Message as Error
+2025-04-26T22:31:40.522Z | PpyGgDRg6R | warn  | Loop #12 | Message as Warning
+2025-04-26T22:31:40.522Z | 51why049tC | info  | Loop #12 | Message as Info
+2025-04-26T22:31:40.522Z | B4hI54diRN | log   | Loop #12 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:40.724Z | FuDBm_DcXz | error | Loop #14 | Message as Error
+2025-04-26T22:31:40.724Z | xtbXiwkTcR | warn  | Loop #14 | Message as Warning
+2025-04-26T22:31:40.724Z | hH3wClA7h0 | info  | Loop #14 | Message as Info
+2025-04-26T22:31:40.724Z | Q_hN-ShnkH | log   | Loop #14 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:40.926Z | W5wtFx_Dwh | error | Loop #16 | Message as Error
+2025-04-26T22:31:40.926Z | OQ5h7BHi-c | warn  | Loop #16 | Message as Warning
+2025-04-26T22:31:40.926Z | 6lC5a_lJM6 | info  | Loop #16 | Message as Info
+2025-04-26T22:31:40.926Z | G5xu-Axh0f | log   | Loop #16 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:41.129Z | Y_WMuYSQCD | error | Loop #18 | Message as Error
+2025-04-26T22:31:41.129Z | p5-a7l5iT3 | warn  | Loop #18 | Message as Warning
+2025-04-26T22:31:41.129Z | bK_42NuTFT | info  | Loop #18 | Message as Info
+2025-04-26T22:31:41.129Z | dwj13DRw7t | log   | Loop #18 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:41.330Z | fPfP9zAaQn | error | Loop #20 | Message as Error
+2025-04-26T22:31:41.330Z | YCiiAXl_gN | warn  | Loop #20 | Message as Warning
+2025-04-26T22:31:41.330Z | ivKymy89Aq | info  | Loop #20 | Message as Info
+2025-04-26T22:31:41.330Z | nm0mXMxHrj | log   | Loop #20 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:41.532Z | x8PMRvl-Qz | error | Loop #22 | Message as Error
+2025-04-26T22:31:41.532Z | DmWi2mGQeO | warn  | Loop #22 | Message as Warning
+2025-04-26T22:31:41.532Z | fuG9wGgs5w | info  | Loop #22 | Message as Info
+2025-04-26T22:31:41.532Z | yed_BYxvVK | log   | Loop #22 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:41.734Z | 9LwgmOlAJl | error | Loop #24 | Message as Error
+2025-04-26T22:31:41.734Z | c-yyyMw-uR | warn  | Loop #24 | Message as Warning
+2025-04-26T22:31:41.734Z | UEqckpxPaJ | info  | Loop #24 | Message as Info
+2025-04-26T22:31:41.734Z | YjdVrtbIhl | log   | Loop #24 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:41.937Z | I6yzrr4dy4 | error | Loop #26 | Message as Error
+2025-04-26T22:31:41.937Z | BOwXLDk7q0 | warn  | Loop #26 | Message as Warning
+2025-04-26T22:31:41.937Z | -xLypO2YEz | info  | Loop #26 | Message as Info
+2025-04-26T22:31:41.937Z | ncaND8f9y0 | log   | Loop #26 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:42.138Z | 7UoRWpQy1h | error | Loop #28 | Message as Error
+2025-04-26T22:31:42.138Z | A_42XwfaNp | warn  | Loop #28 | Message as Warning
+2025-04-26T22:31:42.138Z | wV32pOI7Tc | info  | Loop #28 | Message as Info
+2025-04-26T22:31:42.138Z | o6ajYELh9S | log   | Loop #28 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:42.341Z | UkAH1yRmm3 | error | Loop #30 | Message as Error
+2025-04-26T22:31:42.341Z | QZoNlm73Ke | warn  | Loop #30 | Message as Warning
+2025-04-26T22:31:42.341Z | _kzR-jOf8Q | info  | Loop #30 | Message as Info
+2025-04-26T22:31:42.341Z | ejUvUIbPLo | log   | Loop #30 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:42.543Z | Bqf9H3wJcj | error | Loop #32 | Message as Error
+2025-04-26T22:31:42.543Z | -JDwX3WzHp | warn  | Loop #32 | Message as Warning
+2025-04-26T22:31:42.543Z | b5H43pnFrt | info  | Loop #32 | Message as Info
+2025-04-26T22:31:42.543Z | PDNrY_pxA_ | log   | Loop #32 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:42.744Z | ZMfNYOiUv7 | error | Loop #34 | Message as Error
+2025-04-26T22:31:42.744Z | qWJHD3K_xB | warn  | Loop #34 | Message as Warning
+2025-04-26T22:31:42.744Z | _UTxwpcVo2 | info  | Loop #34 | Message as Info
+2025-04-26T22:31:42.744Z | k_0CbCyoDF | log   | Loop #34 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:42.946Z | jJ07l7MyyI | error | Loop #36 | Message as Error
+2025-04-26T22:31:42.946Z | B9Nf23_0x- | warn  | Loop #36 | Message as Warning
+2025-04-26T22:31:42.947Z | vvcVLMrhl4 | info  | Loop #36 | Message as Info
+2025-04-26T22:31:42.947Z | bGr2S9ot78 | log   | Loop #36 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:43.152Z | wYqn4ZBD60 | error | Loop #38 | Message as Error
+2025-04-26T22:31:43.152Z | _3pcvs62B1 | warn  | Loop #38 | Message as Warning
+2025-04-26T22:31:43.152Z | Lah3L1QVLD | info  | Loop #38 | Message as Info
+2025-04-26T22:31:43.152Z | PHqtazwSdn | log   | Loop #38 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:43.353Z | HivIhni5at | error | Loop #40 | Message as Error
+2025-04-26T22:31:43.353Z | 5M9EvDYUWk | warn  | Loop #40 | Message as Warning
+2025-04-26T22:31:43.353Z | rvmkKE8GdU | info  | Loop #40 | Message as Info
+2025-04-26T22:31:43.353Z | xn6P6oU0Mi | log   | Loop #40 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:43.555Z | 4CqwPZMRgS | error | Loop #42 | Message as Error
+2025-04-26T22:31:43.555Z | yQkxeVtr-f | warn  | Loop #42 | Message as Warning
+2025-04-26T22:31:43.555Z | dhZS9Yu8EK | info  | Loop #42 | Message as Info
+2025-04-26T22:31:43.555Z | xN_U6jqr6Z | log   | Loop #42 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:43.757Z | AoUNk8lfbI | error | Loop #44 | Message as Error
+2025-04-26T22:31:43.757Z | _a3nP_wkvu | warn  | Loop #44 | Message as Warning
+2025-04-26T22:31:43.757Z | 1wHqg3LLqn | info  | Loop #44 | Message as Info
+2025-04-26T22:31:43.757Z | CxoNoDtZnC | log   | Loop #44 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:43.959Z | 0XiX5dmwMV | error | Loop #46 | Message as Error
+2025-04-26T22:31:43.959Z | ktezQ5U3FI | warn  | Loop #46 | Message as Warning
+2025-04-26T22:31:43.959Z | MosF9FkU3B | info  | Loop #46 | Message as Info
+2025-04-26T22:31:43.960Z | Thwk6MUVnK | log   | Loop #46 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:44.162Z | 63l93MYWnn | error | Loop #48 | Message as Error
+2025-04-26T22:31:44.162Z | geo14YdiIt | warn  | Loop #48 | Message as Warning
+2025-04-26T22:31:44.162Z | j-5d6R7mTH | info  | Loop #48 | Message as Info
+2025-04-26T22:31:44.162Z | W5x8fNeCwA | log   | Loop #48 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:44.364Z | seVW16uEtf | error | Loop #50 | Message as Error
+2025-04-26T22:31:44.364Z | OFRz5fJrhJ | warn  | Loop #50 | Message as Warning
+2025-04-26T22:31:44.364Z | 8y9Bp7-1HJ | info  | Loop #50 | Message as Info
+2025-04-26T22:31:44.364Z | 8AJUJYhG9K | log   | Loop #50 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:44.566Z | _7GH6qbW6C | error | Loop #52 | Message as Error
+2025-04-26T22:31:44.566Z | NCzXhPJulB | warn  | Loop #52 | Message as Warning
+2025-04-26T22:31:44.566Z | IaTt2lKd7i | info  | Loop #52 | Message as Info
+2025-04-26T22:31:44.566Z | nBwi6ja1-j | log   | Loop #52 | Message as Log | This should not be in console when debug mode is false, but should still show up in the log file
+2025-04-26T22:31:44.709Z | 32N7I7Gqxh | info  | Ending logging
